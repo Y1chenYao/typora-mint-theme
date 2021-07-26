@@ -19,4 +19,4 @@ A fresh mint theme for typora.
 
 ## Screenshot
 
-![image1](.\image1.png)
+![image1](./image1.png)
