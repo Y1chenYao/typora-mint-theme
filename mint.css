@@ -365,16 +365,20 @@ hr {
 .cm-s-inner .CodeMirror-guttermarker { color: #FFEE80; }
 .cm-s-inner .CodeMirror-guttermarker-subtle { color: #D0D0D0; }
 
+/*
 .cm-s-inner .CodeMirror-cursor {
   border-left: 1px solid #FFCC00;
 }
 .cm-s-inner.cm-fat-cursor .CodeMirror-cursor {
-  background-color: #a2a8a175 !important;
+  background-color: #FFCC00 !important;
 }
 .cm-s-inner .cm-animate-fat-cursor {
-  background-color: #a2a8a175 !important;
+  background-color: #FFCC00 !important;
 }
+*/
 
+.cm-s-inner .CodeMirror-cursor { border-left: 1px solid #A9B7C6; }
+.cm-s-inner div.CodeMirror-cursor { border-left: 1px solid #ffffff; }
 .cm-s-inner div.CodeMirror-selected {
   background: rgba(113, 124, 180, 0.2);
 }
