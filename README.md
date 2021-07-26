@@ -2,11 +2,14 @@
 
 A fresh mint theme for typora.
 
+<img src="https://cdn140.picsart.com/264182024029212.png?type=webp&to=min&r=640" width="120px" />
+
 ## Feature
 
-- Supports English and 中文.
+- Supports **English** and **中文**.
 - Code color scheme imported from [material-ocean](https://codemirror.net/theme/material-ocean.css)
-- Legible math block with dark background and white text
+- Legible **math block** with dark background and white text
+
 ## Install
 
 1. Download `Mint.css` and `Mint` folder
@@ -14,3 +17,6 @@ A fresh mint theme for typora.
 3. Copy `Mint.css` and `Mint` folder into the newly opened folder.
 4. Restart typora, then select `Mint` from `Themes` menu.
 
+## Screenshot
+
+![image1](.\image1.png)
