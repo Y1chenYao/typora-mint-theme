@@ -4,6 +4,7 @@ A fresh mint theme for typora.
 <p align="center">
 <img src="https://cdn140.picsart.com/264182024029212.png?type=webp&to=min&r=640" width="120px" />
 </p>
+
 ## Feature
 
 - Supports **English** and **中文**.
