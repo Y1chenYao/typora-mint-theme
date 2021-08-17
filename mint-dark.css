@@ -18,7 +18,7 @@
   --select-text-bg-color:#7a88a3;
   --item-hover-bg-color: #56575a;
   --window-border: 1px solid #39393a;
-  --highlight-color:#5b746c;
+  --highlight-color:#4eb289;
 }
 
 
@@ -113,7 +113,7 @@ input[type='checkbox']:hover:before {
 /*highlight*/
 #write mark {
 	background-color: var(--highlight-color);
-	color: var(--text-color);
+	color:#fff;
 }
 
 /*inline code*/
