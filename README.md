@@ -1,6 +1,6 @@
 # typora-mint-theme
 
-A fresh mint theme for typora.
+A fresh mint theme for typora. 
 <p align="center">
 <img src="https://cdn140.picsart.com/264182024029212.png?type=webp&to=min&r=640" width="120px" />
 </p>
@@ -16,6 +16,8 @@ A fresh mint theme for typora.
 
 ![mint1](./image1.png)
 ![mint2](./image2.png)
+![mint3](./image3.png)
+![mint4](./image4.png)
 
 
 ## Install

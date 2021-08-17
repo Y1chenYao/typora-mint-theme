@@ -28,6 +28,15 @@
 	color: var(--text-color);
 }
 
+/*source code mode*/
+.cm-s-typora-default .cm-header {
+	color:var(--mint-light-color);
+}
+.cm-s-typora-default .cm-link {
+	color:var(--deep-theme-color);
+
+}
+
 /*table*/
 table tr:nth-child(even){
     background-color: var(--bg-color);
