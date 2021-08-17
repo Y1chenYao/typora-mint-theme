@@ -30,4 +30,4 @@ A fresh mint theme for typora.
 
 3. Copy `mint.css`,  `mint-dark.css`, and `mint` folder into the newly opened folder.
 
-4. Restart typora, then select `mint` or `mint-dark`from `Themes` menu.
+4. Restart typora, then select `mint` or `mint-dark` from `Themes` menu.
