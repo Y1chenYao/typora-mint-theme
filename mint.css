@@ -91,8 +91,8 @@ body {
 
 
 @media print {
-  html {
-    font-size: 12px;
+  html,body {
+    font-size: 14px;
   }
 
   table,
@@ -104,11 +104,10 @@ body {
     word-wrap: break-word;
   }
   
-  @page {
-    size: A4; 
-    margin-left: 0;
-    margin-right: 0;
-  }
+}
+@page {
+  size: A4; 
+  margin: 8mm 0mm;
 }
 
 /*toc*/
