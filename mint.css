@@ -184,8 +184,7 @@ table {
 table {
 	border-collapse: collapse;
 	padding: 0;
-    word-break: initial;
-	table-layout: fixed;
+    	word-break: initial;
 	width: 100%;
 }
 
