@@ -4,6 +4,7 @@
   
   --bg-color: #272729;
   --text-color: #cccccc;
+  --blur-text-color: #818286;
   --side-bar-bg-color: #232325;
   --control-text-color: #7a7b7e;
   --active-file-bg-color: #19191b;
@@ -21,7 +22,12 @@
   --highlight-color:#4eb289;
 }
 
-
+/*scroll bar*/
+::-webkit-scrollbar-thumb
+{
+  border-radius: 8px;
+  background-color: var(--control-text-color);
+}
 
 #write pre.md-meta-block {
 	background-color: var(--item-hover-bg-color);
