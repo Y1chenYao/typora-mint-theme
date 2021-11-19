@@ -75,7 +75,28 @@ footer.ty-footer {
 }
 
 /*megamenu*/
+.megamenu-menu {
+  box-shadow: none;
+  background-color:var(--side-bar-bg-color);
+}
 
+.megamenu-content,
+.megamenu-opened header {
+    background: var(--bg-color);
+    background-image: none;
+}
+
+.megamenu-menu-panel table td:nth-child(1) {
+  background-color: var(--bg-color);
+}
+
+.megamenu-menu-panel table td:nth-child(2) {
+  background-color: var(--bg-color);
+}
+
+#recent-file-panel-action-btn {
+  background-color: var(--bg-color);
+}
 
 /* preferences */
 .ty-preferences .window-header{
