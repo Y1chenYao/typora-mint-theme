@@ -302,7 +302,7 @@ hr {
 	padding: 0.6px 4px;
 	border-radius: 2px;
 	background-color: #f1f1f1;
-	font-family: 'SourceCodePro',Consolas,Courier, Monospace !important,宋体;
+	font-family: 'SourceCodePro',Consolas,Courier, Monospace !important,"Microsoft Yahei","PingFang SC","STHeiti","SimSun";
 	font-size: 0.9rem;
 	color: var(--code-block-bg-color);
 	margin: 0 2px;
@@ -331,7 +331,7 @@ hr {
     padding: 0.5em;
     border-radius: 3px;
 	font-size: 0.9em;
-    font-family: 'SourceCodePro',Consolas,Courier, Monospace !important,宋体;
+    font-family: 'SourceCodePro',Consolas,Courier, Monospace !important,"Microsoft Yahei","PingFang SC","STHeiti","SimSun";
     background-color: var(--code-block-bg-color);
     color: #A9B7C6;
     border: none;
