@@ -40,7 +40,14 @@
 }
 .cm-s-typora-default .cm-link {
 	color:var(--deep-theme-color);
+}
 
+#toggle-sourceview-btn {
+  background: var(--bg-color)!important;
+}
+
+#toggle-sourceview-btn:hover {
+  background: #39393b;
 }
 
 /*table*/

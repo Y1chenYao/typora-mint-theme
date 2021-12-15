@@ -96,6 +96,11 @@ body {
   html,body {
     font-size: 14px;
   }
+  
+  .md-fences {
+    line-height: 1.2rem;
+  }
+
 
   table,
   pre {
