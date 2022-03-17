@@ -22,6 +22,10 @@
   --highlight-color:#4eb289;
 }
 
+.input-group-header-title {
+  color: var(--active-file-text-color);
+}
+
 /*scroll bar*/
 ::-webkit-scrollbar-thumb
 {
