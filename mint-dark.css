@@ -23,11 +23,11 @@
 }
 
 .input-group-header-title {
-  color: #eee;
+  color: var(--text-color);
 }
 
 .input-group-header-hint {
-  color: #eee !important;
+  color: var(--text-color) !important;
 }
 
 /*scroll bar*/
