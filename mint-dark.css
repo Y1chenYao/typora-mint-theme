@@ -22,6 +22,14 @@
   --highlight-color:#4eb289;
 }
 
+.input-group-header-title {
+  color: var(--text-color);
+}
+
+.input-group-header-hint {
+  color: var(--text-color) !important;
+}
+
 /*scroll bar*/
 ::-webkit-scrollbar-thumb
 {
