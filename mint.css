@@ -264,7 +264,7 @@ input[type='checkbox']:hover:before {
   height: 1.1rem;
   margin-left: -0.13rem;
   margin-right: 0.1rem;
-  margin-top: -0.47rem;  
+  margin-top: -0.67rem;  
 }
 
 .task-list-item input:checked::before {
@@ -276,7 +276,7 @@ input[type='checkbox']:hover:before {
   line-height: 0.95rem;
   margin-left: -0.13rem;
   margin-right: 0.1rem;
-  margin-top: -0.47rem; 
+  margin-top: -0.67rem; 
   transition: background-color 200ms ease-in-out;
 }
 
