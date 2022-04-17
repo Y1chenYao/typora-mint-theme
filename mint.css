@@ -256,26 +256,28 @@ input[type='checkbox']:hover:before {
 .task-list-item input::before {
   content: "";
   display: inline-block;
-	border-radius: 1.1rem;
+  border-radius: 1.1rem;
   vertical-align: middle;
   border: 1.2px solid var(--deep-theme-color);
   background-color: #ffffff;
-	width: 1.1rem;
+  width: 1.1rem;
   height: 1.1rem;
-	margin-left: -0.1rem;
+  margin-left: -0.13rem;
   margin-right: 0.1rem;
-  margin-top: -0.68rem; 
+  margin-top: -0.47rem;  
 }
 
 .task-list-item input:checked::before {
   padding-left: 0.125em;
   content: '✔';
   color:white;
-	background-color: var(--deep-theme-color);
+  background-color: var(--deep-theme-color);
   font-size: 0.8rem;
   line-height: 0.95rem;
-  margin-top: -0.68rem;
-	transition: background-color 200ms ease-in-out;
+  margin-left: -0.13rem;
+  margin-right: 0.1rem;
+  margin-top: -0.47rem; 
+  transition: background-color 200ms ease-in-out;
 }
 
 .task-list-done {
