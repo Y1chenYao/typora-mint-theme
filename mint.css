@@ -313,6 +313,15 @@ hr {
 	margin: 0 2px;
 }
 
+#write h1 code,
+#write h2 code,
+#write h3 code,
+#write h4 code,
+#write h5 code,
+#write h6 code {
+    font-size: inherit;
+}
+
 /*footnote*/
 #write .md-footnote {
 	color: #777777;
